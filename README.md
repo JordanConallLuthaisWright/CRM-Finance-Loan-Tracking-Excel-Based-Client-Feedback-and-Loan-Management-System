@@ -9,6 +9,12 @@ Many small and medium-sized businesses use Excel for **Customer Relationship Man
 
 ---
 
+## **Context**
+
+*In small and medium-sized firms, Excel is often used for customer feedback tracking due to its accessibility and familiar interface. While not as advanced as CRM platforms like Slack, HubSpot, Salesforce, or Zoho, Excel serves as a practical tool for collecting and organizing preliminary feedback before integration into larger systems. This project explores how VBA macros and Excel functions, such as VLOOKUP, can enhance automation for CRM officers, sales teams, and data managers, streamlining feedback tracking and management.*
+
+---
+
 ## **Features & Capabilities**
 - **Automated Client Feedback Logging** – VBA scripts capture and timestamp customer interactions.
 - **Loan Tracking & Account Management** – Automates loan data updates and debt monitoring.
