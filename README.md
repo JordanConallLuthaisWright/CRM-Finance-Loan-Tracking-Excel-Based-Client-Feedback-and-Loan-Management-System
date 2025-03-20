@@ -1,0 +1,2 @@
+# CRM-Finance-Loan-Tracking-Excel-Based-Client-Feedback-and-Loan-Management-System
+This project explores Excel VBA Macros to automate CRM and loan tracking for financial institutions. It enhances client feedback logging, loan monitoring, and data retrieval using VBA scripts and VLOOKUP. Automating data entry and tracking improves efficiency, reduces errors, and optimizes Excel as a CRM tool for small businesses.
